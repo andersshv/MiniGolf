@@ -51,7 +51,7 @@ public class MiniGolf extends JPanel implements ActionListener, KeyListener, Mou
 
 		initCourse();	
 		
-		//Hej 
+		//Hej mor
 	}
 
 	private void initCourse() {
