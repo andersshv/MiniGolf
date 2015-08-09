@@ -1,4 +1,4 @@
-class Ball { 
+public class Ball { 
 
 	float width = 40;
 	Vector pos;
