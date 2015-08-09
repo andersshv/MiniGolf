@@ -15,6 +15,9 @@ public class Course1 extends Course {
 		lines.add(new LineSegment(490, 10, 490, 490));
 		lines.add(new LineSegment(200, 250, 200, 490));
 		lines.add(new LineSegment(200, 490, 490, 490));
+		
+//		lines.add(new LineSegment(290, 100, 490, 300)); // Skew
+//		lines.add(new LineSegment(290, 200, 490, 200)); // Horizontal
 	}
 
 	@Override
